@@ -1,0 +1,14 @@
+这是为了测试
+git add
+git status -s
+git commit -m 'log'
+
+推送到远端仓库
+git push origin master
+
+将本地仓库更新到最新
+git pull
+
+
+将本地仓库文件更新为远程仓库的版本
+git checkout -- <sourcefilename>
